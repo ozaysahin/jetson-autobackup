@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
 
-# 🗂️ Jetson Nano SD Card Backup Tool
+# 🗂️ jetson-autobackup
 
 **[🇹🇷 Türkçe](#-türkçe) · [🇬🇧 English](#-english)**
 
@@ -44,19 +44,19 @@
 
 ```bash
 git clone https://github.com/ozaysahin/jetson-autobackup.git
-cd jetson-nano-sd-backup
+cd jetson-autobackup
 ```
 
 #### 2. Çalıştırma İzni Verin
 
 ```bash
-chmod +x jetson_backup.sh
+chmod +x autobackup.sh
 ```
 
 #### 3. Scripti Çalıştırın
 
 ```bash
-./jetson_backup.sh
+./autobackup.sh
 ```
 
 #### 4. Adım Adım Akış
@@ -138,19 +138,19 @@ BACKUP_PATH="$HOME/Desktop/backup.img.gz"  # ← burası
 
 ```bash
 git clone https://github.com/ozaysahin/jetson-autobackup.git
-cd jetson-nano-sd-backup
+cd jetson-autobackup
 ```
 
 #### 2. Make It Executable
 
 ```bash
-chmod +x jetson_backup_en.sh
+chmod +x autobackup_en.sh
 ```
 
 #### 3. Run the Script
 
 ```bash
-./jetson_backup_en.sh
+./autobackup_en.sh
 ```
 
 #### 4. Step-by-Step Flow
