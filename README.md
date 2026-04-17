@@ -43,7 +43,7 @@
 #### 1. Scripti İndirin
 
 ```bash
-git clone https://github.com/kullaniciadi/jetson-nano-sd-backup.git
+git clone https://github.com/ozaysahin/jetson-autobackup.git
 cd jetson-nano-sd-backup
 ```
 
@@ -137,7 +137,7 @@ BACKUP_PATH="$HOME/Desktop/backup.img.gz"  # ← burası
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/jetson-nano-sd-backup.git
+git clone https://github.com/ozaysahin/jetson-autobackup.git
 cd jetson-nano-sd-backup
 ```
 
